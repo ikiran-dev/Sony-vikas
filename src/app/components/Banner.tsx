@@ -9,7 +9,7 @@ export default function Banner() {
       <div className="container mx-auto px-6 py-0 flex flex-col-reverse md:flex-row items-center justify-between">
         <div className="md:w-1/2 md:pr-8 mb-8 md:mb-0">
           <h1 className="text-4xl md:text-5xl font-bold text-gray-800 mb-4">
-            Sony TV Service & Repair Specialists in Bangalore
+            Sony TV Service & Repair Specialists in hyderabad
           </h1>
           <p className="text-xl text-gray-600 mb-6">
             Expert Repairs for Sony BRAVIA, Android TV, Google TV & All Latest Models

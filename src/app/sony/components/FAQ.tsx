@@ -19,7 +19,7 @@ export default function FAQ() {
     },
     {
       question: "Do you offer doorstep TV repair service?",
-      answer: "Yes, we provide doorstep repair service for all Sony TVs across Bangalore. Our technicians carry essential tools and common spare parts for on-site repairs."
+      answer: "Yes, we provide doorstep repair service for all Sony TVs across hyderabad. Our technicians carry essential tools and common spare parts for on-site repairs."
     }
 ]
 

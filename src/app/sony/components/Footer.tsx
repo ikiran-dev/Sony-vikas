@@ -11,7 +11,7 @@ export default function Footer() {
         <div className="grid md:grid-cols-3 gap-8">
           <div>
             <Image className='pb-3' src="/sony-logo.svg" alt="logo" width={100} height={50} />
-            <p className="mb-4">Expert Sony TV repair services in Bangalore, Karnataka. Fast, reliable, and affordable.</p>
+            <p className="mb-4">Expert Sony TV repair services in hyderabad, Karnataka. Fast, reliable, and affordable.</p>
           </div>
           <div>
             <h4 className="text-xl font-semibold mb-4">Quick Links</h4>
@@ -38,7 +38,7 @@ export default function Footer() {
               </li>
               <li className="flex items-center">
                 <MapPin className="w-5 h-5 mr-2" />
-                <span>No. 5, Jp Nagar 7th phase kanakpura main road <br />Bangalore, Karnataka, India-560078</span>
+                <span>No. 5, Jp Nagar 7th phase kanakpura main road <br />hyderabad, Karnataka, India-560078</span>
               </li>
             </ul>
           </div>

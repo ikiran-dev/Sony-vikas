@@ -12,7 +12,7 @@ export default function Footer() {
           <div>
             <Image className="pb-3" src="/sony-logo.svg" alt="logo" width={100} height={50} />
             <p className="mb-4">
-              Expert Sony TV repair services in Bangalore, Karnataka. Fast, reliable, and affordable.
+              Expert Sony TV repair services in hyderabad, Karnataka. Fast, reliable, and affordable.
             </p>
           </div>
           <div>
