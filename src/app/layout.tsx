@@ -49,17 +49,17 @@ export default function RootLayout({
         />
         <meta property="twitter:image" content="=https://sony-care.in/favicon.jpg" />
         <link href="/favicon.jpg" rel="icon" />
-        {/* <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16931522972"></script>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17552706362"></script>
         <script
           dangerouslySetInnerHTML={{
             __html: `
               window.dataLayer = window.dataLayer || [];
               function gtag(){dataLayer.push(arguments);}
               gtag('js', new Date());
-              gtag('config', 'AW-16835133025');
+              gtag('config', 'AW-17552706362');
             `,
           }}
-        /> */}
+        />
         <title>Sony TV Repair Services in hyderabad</title>
       </head>
       <body className={`${inter.className} flex flex-col min-h-screen`}> 
