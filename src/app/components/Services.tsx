@@ -34,11 +34,11 @@ export default function Services() {
       title: "Sony TV Maintenance",
       description: "Preventive maintenance service for Sony TVs to ensure optimal performance and longevity. Our comprehensive maintenance includes software updates, hardware cleaning, picture quality optimization, and thorough system checks specific to your Sony model."
     },
-    {
-      image: "/install.jpg",
-      title: "Sony TV Installation",
-      description: "Professional installation service for all Sony TV models. We provide expert wall mounting, optimal placement for perfect viewing angles, complete setup of smart features, and neat cable management. Includes initial calibration for the best picture quality."
-    }
+    // {
+    //   image: "/install.jpg",
+    //   title: "Sony TV Installation",
+    //   description: "Professional installation service for all Sony TV models. We provide expert wall mounting, optimal placement for perfect viewing angles, complete setup of smart features, and neat cable management. Includes initial calibration for the best picture quality."
+    // }
   ]
 
   return (
