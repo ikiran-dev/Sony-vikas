@@ -9,7 +9,7 @@ export const gtag_report_conversion = (url?: string): boolean => {
 
   if (typeof window !== 'undefined' && window.gtag) {
     window.gtag('event', 'conversion', {
-      send_to: 'AW-16835133025/7ov1CNyyp5QaEOH8zts-',
+      send_to: 'AW-17538731152/uxJ9CL-8k5sbEJCZj6tB',
       value: 1.0,
       currency: 'INR',
       event_callback: callback
