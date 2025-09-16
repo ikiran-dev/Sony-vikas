@@ -25,7 +25,7 @@ export default function Header() {
             <Link href="#services" className="text-white hover:text-gray-300 transition-all ease-in-out duration-300">Services</Link>
             <Link href="#faq" className="text-white hover:text-gray-300 transition-all ease-in-out duration-300">FAQ</Link>
             <Link href="#choose-us" className="text-white hover:text-gray-300 transition-all ease-in-out duration-300">Why Choose Us</Link>
-            <Link href="tel:+91-9700525905" className="text-white hover:text-gray-300 transition-all ease-in-out duration-300">Contact</Link>
+            <Link href="tel:+91-9676797995" className="text-white hover:text-gray-300 transition-all ease-in-out duration-300">Contact</Link>
           </div>
           <button
             className="md:hidden focus:outline-none"
@@ -47,7 +47,7 @@ export default function Header() {
               <Link href="#faq" className="block py-2 text-white hover:text-gray">FAQ</Link>
               <Link href="#choose-us" className="block py-2 text-white hover:text-gray">Why Choose Us</Link>
               <Link onClick={(event)=>{event.preventDefault()
-                        gtag_report_conversion("tel:+91-9700525905")}} href="tel:+91-9700525905" className="block py-2 text-white hover:text-gray">Contact</Link>
+                        gtag_report_conversion("tel:+91-9676797995")}} href="tel:+91-9676797995" className="block py-2 text-white hover:text-gray">Contact</Link>
             </div>
           </div>
         )}

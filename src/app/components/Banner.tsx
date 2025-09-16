@@ -55,7 +55,7 @@ export default function Banner() {
             </li>
           </ul>
           <a onClick={(event)=>{event.preventDefault()
-          gtag_report_conversion("tel:+91-9700525905")}} href="tel:+91-9700525905"><Button>Call Now</Button></a>
+          gtag_report_conversion("tel:+91-9676797995")}} href="tel:+91-9676797995"><Button>Call Now</Button></a>
         </div>
         <div className="md:w-1/2 md:pl-8 pb-6">
           <Image

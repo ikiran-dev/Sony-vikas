@@ -26,9 +26,9 @@ export default function Footer() {
                 <Link
                   onClick={(event) => {
                     event.preventDefault()
-                    gtag_report_conversion("tel:+91-9700525905")
+                    gtag_report_conversion("tel:+91-9676797995")
                   }}
-                  href="tel:+91-9700525905"
+                  href="tel:+91-9676797995"
                   className="hover:text-gray-300"
                 >
                   Contact
@@ -42,8 +42,8 @@ export default function Footer() {
               <li className="flex items-center">
                 <Phone className="w-5 h-5 mr-2" />
                 <span>
-                  <a href="tel:+91-9700525905" className="hover:text-gray-300">
-                    +91-9700525905
+                  <a href="tel:+91-9676797995" className="hover:text-gray-300">
+                    +91-9676797995
                   </a>
                 </span>
               </li>
